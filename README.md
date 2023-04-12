@@ -20,7 +20,7 @@ UPS management is also provided.
 - The presence of SSH to send a command to an external server (shutdown, run bat, etc.)
 - Based on protocol from APC SNMP cards
 
-###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) [link](https://www.apc.com/us/en/faqs/FA237786/ "APC site")
+###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" target="_blank" title="APC site">link</a>
 
 ### Several screenshots
 

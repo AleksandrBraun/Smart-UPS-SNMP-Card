@@ -1,7 +1,9 @@
-# Smart UPS SNMP WiFi Card
+# Smart UPS SNMP WiFi Card <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/3d.png" height=200 style="float: right;">
 WiFi network card support project for Smart UPS APC, etc.
 
 ![](https://img.shields.io/github/release/AleksandrBraun/Smart-UPS-SNMP-Card.svg) ![](https://img.shields.io/github/issues/AleksandrBraun/Smart-UPS-SNMP-Card.svg)
+
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/HASS.png" height=48>&nbsp;&nbsp;&nbsp;<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/APC.svg" height=48>
 
 Attempt to replace the standard APC Smart UPS network monitoring card.
 The card is designed for remote monitoring of the UPS status over a WiFi network.
@@ -17,3 +19,15 @@ UPS management is also provided.
 - Home Assistant discovery support
 - The presence of SSH to send a command to an external server (shutdown, run bat, etc.)
 - Based on protocol from APC SNMP cards
+
+### Several screenshots
+
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Main-Control.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Settings.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Alert-Error.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Network-MQTT-SSH.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Fan-Control.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/FWUpdate-page.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_card.png">
+<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_discovery.png">
+

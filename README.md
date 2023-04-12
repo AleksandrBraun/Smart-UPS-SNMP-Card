@@ -1,4 +1,4 @@
-# Smart UPS SNMP WiFi Card <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/3d.png" height=200 style="float: right;">
+# Smart UPS SNMP WiFi Card <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Ukraine.png" height=24> <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/3d.png" height=200 style="float: right;">
 WiFi network card support project for Smart UPS APC, etc.
 
 ![](https://img.shields.io/github/release/AleksandrBraun/Smart-UPS-SNMP-Card.svg) ![](https://img.shields.io/github/issues/AleksandrBraun/Smart-UPS-SNMP-Card.svg)
@@ -20,7 +20,7 @@ UPS management is also provided.
 - The presence of SSH to send a command to an external server (shutdown, run bat, etc.)
 - Based on protocol from APC SNMP cards
 
-###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" target="_blank" title="APC site">link</a>
+###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 
 ### Several screenshots
 

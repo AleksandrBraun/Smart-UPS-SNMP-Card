@@ -1,7 +1,8 @@
 # Smart UPS SNMP WiFi Card <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Ukraine.png" height=24> <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/3d.png" height=200 style="float: right;">
-WiFi network card support project for Smart UPS APC, etc.
 
 [![GitHub release](https://img.shields.io/github/release/AleksandrBraun/Smart-UPS-SNMP-Card/all.svg)](https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/releases "Releases") ![GitHub issues](https://img.shields.io/github/issues/AleksandrBraun/Smart-UPS-SNMP-Card.svg) ![Github All Releases](https://img.shields.io/github/downloads/AleksandrBraun/Smart-UPS-SNMP-Card/total.svg) ![repo size](https://img.shields.io/github/repo-size/AleksandrBraun/Smart-UPS-SNMP-Card.svg)
+
+WiFi network card support project for Smart UPS APC, etc.
 
 <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/HASS.png" height=48>&nbsp;&nbsp;&nbsp;<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/APC.svg" height=48>
 

@@ -23,13 +23,37 @@ UPS management is also provided.
 ###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 
 ### Several screenshots
+<div align="center">
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Main-Control.png">
 
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Main-Control.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Settings.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Alert-Error.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Network-MQTT-SSH.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Fan-Control.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/FWUpdate-page.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_card.png">
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_discovery.png">
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Settings.png">
 
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Alert-Error.png">
+
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Network-MQTT-SSH.png">
+
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Fan-Control.png">
+
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/FWUpdate-page.png">
+
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_card.png">
+
+### 
+---
+  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_discovery.png">
+
+### 
+---
+</div>

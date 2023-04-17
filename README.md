@@ -21,6 +21,13 @@ UPS management is also provided.
 - The presence of SSH to send a command to an external server (shutdown, run bat, etc.)
 - Based on protocol from APC SNMP cards
 
+### Optional
+- Dynamic fan speed control
+> (requires tampering with the UPS case for minimal rework)
+- Remote temperature sensor for monitoring external batteries, etc.
+
+
+
 ###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 
 ### Several screenshots

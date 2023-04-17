@@ -18,7 +18,7 @@ UPS management is also provided.
 - Connecting to an MQTT broker
 - MQTT management
 - Home Assistant discovery support
-- The presence of SSH to send a command to an external server (shutdown, run bat, etc.)
+- The presence of SSH to send a command to an external server (shutdown, run bat, ran com, etc.)
 - Based on protocol from APC SNMP cards
 
 ### Optional
@@ -26,7 +26,12 @@ UPS management is also provided.
 > (requires tampering with the UPS case for minimal rework)
 - Remote temperature sensor for monitoring external batteries, etc.
 
-
+### Future additions
+- Connecting a remote graphic / text display
+- Sending an event report to a remote mail server
+- Output port expander for controlling external devices *
+- Data logging to internal flash memory for further analysis *
+> * Will be implemented in the next hardware generation
 
 ###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 

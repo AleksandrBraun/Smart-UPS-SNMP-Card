@@ -22,16 +22,16 @@ UPS management is also provided.
 - Based on protocol from APC SNMP cards
 
 ### Optional
-- Dynamic fan speed control
-> (requires tampering with the UPS case for minimal rework)
+- Dynamic fan speed control*
 - Remote temperature sensor for monitoring external batteries, etc.
+> *requires tampering with the UPS case for minimal rework
 
 ### Future additions
 - Connecting a remote graphic / text display
 - Sending an event report to a remote mail server
 - Output port expander for controlling external devices *
 - Data logging to internal flash memory for further analysis *
-> * Will be implemented in the next hardware generation
+> *will be implemented in the next hardware generation
 
 ###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 

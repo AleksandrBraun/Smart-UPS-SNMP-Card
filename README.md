@@ -23,8 +23,10 @@ UPS management is also provided.
 
 ### Optional
 - Dynamic fan speed control*
-- Remote temperature sensor for monitoring external batteries, etc.
+- Remote temperature sensor for monitoring external batteries, etc.**
 > *requires tampering with the UPS case for minimal rework
+
+> **external temperature sensor required (NTC or DS18B20)
 
 ### Future additions
 - Connecting a remote graphic / text display

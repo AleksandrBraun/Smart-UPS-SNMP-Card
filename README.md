@@ -37,7 +37,8 @@ UPS management is also provided.
 
 ###### Official list of supported devices (tested on APC Smart UPS 1000XL *SUA 1000 XLI*) <a href="https://www.apc.com/us/en/faqs/FA237786/" title="APC site">link</a>
 
-### [Documentations](Docs/en/Interface.md) [Описание](Docs/ru/Interface.md)
+#### [Documentations](Docs/en/Interface.md)
+#### [Описание](Docs/ru/Interface.md)
 
 ### Several screenshots
 

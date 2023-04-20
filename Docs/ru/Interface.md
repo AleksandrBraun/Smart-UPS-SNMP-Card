@@ -42,7 +42,7 @@
       * Запрос редко изменяемых данных
     - Сохранение и восстановление пользовательских настроек перед ручным обновлением прошивок
 
-![Interface](https://user-images.githubusercontent.com/36089626/233293798-c0ddc098-3bd5-46f3-b835-02a60eb0711c.png)
+![Interface](https://user-images.githubusercontent.com/36089626/233385226-a341ce70-9e1e-4eea-aadd-7f018a8805f8.png)
 
 1. Информация об UPS
 2. Меню вкладок

@@ -47,7 +47,7 @@ The following functionality is currently implemented:
 1. Information about UPS
 2. Tab menu
     - [Control](Control.md)
-    - System settings
+    - [System settings](System.md)
     - Errors, Alert, Statuses
     - Network settings
     - Fan settings

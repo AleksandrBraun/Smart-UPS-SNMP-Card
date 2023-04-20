@@ -4,7 +4,7 @@
 2. Tab menu
     - [Control](Control.md)
     - [System settings](System.md)
-    - Errors, Alert, Statuses
+    - [Errors, Alert, Statuses](Errors.md)
     - Network settings
     - Fan settings
     - Manual update
@@ -34,7 +34,7 @@ The module has a WEB interface in HTML, JS and AJAX accessible by IP or DNS name
 
 The following functionality is currently implemented:
 1. Monitoring the current state of UUPS
-     - Voltage of the incoming network
+     - Voltage of the incoming line
      - UPS output voltage
      - Battery voltage in volts and %%
      - Battery voltage directly at the battery terminals (can be monitored even if the exchange protocol with UPS is not working / disabled)

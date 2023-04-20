@@ -42,7 +42,7 @@ The following functionality is currently implemented:
        * Query rarely modified data
      - Saving and restoring user settings before manually updating firmware
 
-![Interface](https://user-images.githubusercontent.com/36089626/233293798-c0ddc098-3bd5-46f3-b835-02a60eb0711c.png)
+![Interface](https://user-images.githubusercontent.com/36089626/233385226-a341ce70-9e1e-4eea-aadd-7f018a8805f8.png)
 
 1. Information about UPS
 2. Tab menu

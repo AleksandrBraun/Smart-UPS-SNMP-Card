@@ -1,3 +1,20 @@
+![Interface](https://user-images.githubusercontent.com/36089626/233385226-a341ce70-9e1e-4eea-aadd-7f018a8805f8.png)
+
+1. Information about UPS
+2. Tab menu
+    - [Control](Control.md)
+    - [System settings](System.md)
+    - Errors, Alert, Statuses
+    - Network settings
+    - Fan settings
+    - Manual update
+    - Reboot module
+3. UPS command response window
+4. Operational summary of UPS parameters
+5. Main interface window
+
+### 
+---
 Communication with the UPS takes place using the Simple Network Management Protocol, or SNMP for short.
 
 The module manages the main UPS functions using this protocol.
@@ -42,17 +59,3 @@ The following functionality is currently implemented:
        * Query rarely modified data
      - Saving and restoring user settings before manually updating firmware
 
-![Interface](https://user-images.githubusercontent.com/36089626/233385226-a341ce70-9e1e-4eea-aadd-7f018a8805f8.png)
-
-1. Information about UPS
-2. Tab menu
-    - [Control](Control.md)
-    - [System settings](System.md)
-    - Errors, Alert, Statuses
-    - Network settings
-    - Fan settings
-    - Manual update
-    - Reboot module
-3. UPS command response window
-4. Operational summary of UPS parameters
-5. Main interface window

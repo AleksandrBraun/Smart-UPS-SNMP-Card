@@ -46,6 +46,13 @@ The following functionality is currently implemented:
 
 1. Information about UPS
 2. Tab menu
+    - [Control](Control.md)
+    - System settings
+    - Errors, Alert, Statuses
+    - Network settings
+    - Fan settings
+    - Manual update
+    - Reboot module
 3. UPS command response window
 4. Operational summary of UPS parameters
 5. Main interface window

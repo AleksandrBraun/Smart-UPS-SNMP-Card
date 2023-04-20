@@ -5,8 +5,8 @@
     - [Control](Control.md)
     - [System settings](System.md)
     - [Errors, Alert, Statuses](Errors.md)
-    - Network settings
-    - Fan settings
+    - [Network settings](Network.md)
+    - [Fan settings](Cooling.md)
     - Manual update
     - Reboot module
 3. UPS command response window

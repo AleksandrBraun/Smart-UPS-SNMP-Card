@@ -22,7 +22,7 @@ The following functionality is currently implemented:
      - Battery voltage in volts and %%
      - Battery voltage directly at the battery terminals (can be monitored even if the exchange protocol with UPS is not working / disabled)
      - Maximum / minimum input voltage for the period from the last switch on
-     - Power output during battery operation in %% of the nominal power of the UPS
+     - Delivered power during battery operation in %% of the rated power of the UPS
      - Internal inverter temperature
      - Temperature at the external sensor (connection of an external temperature sensor NTC 10k or Dallas DS18B20 is required)
      - Diagnosis and control of all warnings / statuses / errors from UPS
@@ -33,7 +33,7 @@ The following functionality is currently implemented:
      - Local WiFi connection (DHCP / Static IP / Port selection)
      - Connection to MQTT broker (control/management)
      - Integration into Home Assistant (HASS Discovery)
-       * Notification of new firmware and update from Home Assistant interface
+       * New firmware notification and update from Home Assistant interface
      - Execute commands on a remote server via SSH (login / password)
      - Setting the cooling fan speed depending on the temperature of the internal MOSFET of the inverter. (requires minimal intervention in connecting the cooler to the UPS)
      - Setting up UPS polling intervals to get the required response time
@@ -41,3 +41,11 @@ The following functionality is currently implemented:
        * Request statuses
        * Query rarely modified data
      - Saving and restoring user settings before manually updating firmware
+
+![Interface](https://user-images.githubusercontent.com/36089626/233293798-c0ddc098-3bd5-46f3-b835-02a60eb0711c.png)
+
+1. Information about UPS
+2. Tab menu
+3. UPS command response window
+4. Operational summary of UPS parameters
+5. Main interface window

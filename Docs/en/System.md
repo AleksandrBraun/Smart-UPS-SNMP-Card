@@ -14,7 +14,7 @@
      - Battery level in %%
 6. UPS Status Request Period
 7. Request period for infrequently updated data
-     - Network frequency
+     - Line frequency
      - Mains input voltage
      - Maximum mains voltage from the last switch on
      - Minimum mains voltage from last switch on

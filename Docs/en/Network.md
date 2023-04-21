@@ -25,6 +25,7 @@
      |ups_id/set/ups_turn_on| - | Switch output ON|
      |ups_id/set/ups_go_test| - | Launch Self-Test|
      |ups_id/set/ups_get_error| - | Request statuses / errors|
+     |ups_id/set/ups_run_time| - | Battery calibration|
      |ups_id/set/ups_go_upd| - | Update module|
 18. Enable Module Discovery in Home Assistant (HASS MQTT Discovery)
 19. Enable sending a command via SSH to a remote computer when the battery discharge threshold is passed. For example, send the command "sudo shutdown now" to gracefully shutdown if the UPS may shut down due to low batteries

@@ -7,7 +7,7 @@
     - [Errors, Alert, Statuses](Errors.md)
     - [Network settings](Network.md)
     - [Fan settings](Cooling.md)
-    - Manual update
+    - [Manual update](Update.md)
     - Reboot module
 3. UPS command response window
 4. Operational summary of UPS parameters

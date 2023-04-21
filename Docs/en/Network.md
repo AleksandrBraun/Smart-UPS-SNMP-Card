@@ -21,8 +21,8 @@
      | Topic | Message | Result |
      |-------|-----------|-----------|
      |ups_id/set|reboot| Reboot |
-     |ups_id/set/ups_turn_off| - | Shutdown UPS|
-     |ups_id/set/ups_turn_on| - | Enable UPS|
+     |ups_id/set/ups_turn_off| - | Switch output OFF|
+     |ups_id/set/ups_turn_on| - | Switch output ON|
      |ups_id/set/ups_go_test| - | Launch Self-Test|
      |ups_id/set/ups_go_upd| - | Update module|
 18. Enable Module Discovery in Home Assistant (HASS MQTT Discovery)

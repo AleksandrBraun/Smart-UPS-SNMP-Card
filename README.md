@@ -39,6 +39,11 @@ UPS management is also provided.
 
 #### [Documentations](Docs/en/Interface.md)
 #### [Описание](Docs/ru/Interface.md)
+> __Note__
+>
+> Changes are taking place on an ongoing basis. Some screenshots may not match the updated data. Screenshots will be updated when there are enough changes.
+>
+> Изменения происходят в постоянном режиме. Некоторые скриншоты могут не соответствовать обновленным данным. Скриншоты будут обновляться при достаточном колличестве изменений.
 
 ### Several screenshots
 

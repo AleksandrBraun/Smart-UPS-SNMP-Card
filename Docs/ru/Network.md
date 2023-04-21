@@ -21,8 +21,8 @@
     | Топик | Сообщение | Результат |
     |-------|-----------|-----------|
     |ups_id/set|reboot| Перезагрузка|
-    |ups_id/set/ups_turn_off| - | Выключение UPS|
-    |ups_id/set/ups_turn_on| - | Включение UPS|
+    |ups_id/set/ups_turn_off| - | Выключение выхода UPS|
+    |ups_id/set/ups_turn_on| - | Включение выхода UPS|
     |ups_id/set/ups_go_test| - | Запуск Self-Test|
     |ups_id/set/ups_go_upd| - | Обновить модуль|
 18. Включить обнаружение модуля в Home Assistant (HASS MQTT Discovery)

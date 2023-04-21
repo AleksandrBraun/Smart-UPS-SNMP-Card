@@ -25,3 +25,9 @@
 10. Select a saved settings file
 
 SAVE button for saving settings to the non-volatile memory of the module.
+
+![Thermoprobe](https://user-images.githubusercontent.com/36089626/233596425-2dd7d895-65a6-4d8a-b1b6-533186b60944.png)
+
+The DS18B20 sensor is connected as shown in the picture.
+
+10k thermistor, connected to the GND and SIGNAL pins. In this case, the +3.3V connector output is not used.

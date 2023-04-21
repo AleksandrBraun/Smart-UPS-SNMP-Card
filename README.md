@@ -4,7 +4,7 @@
 
 WiFi network card support project for Smart UPS APC, etc.
 
-<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/HASS.png" height=48>&nbsp;&nbsp;&nbsp;<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/APC.svg" height=48>
+<img src="https://user-images.githubusercontent.com/36089626/233591378-432f1a4e-89f6-49d9-9716-f451cfbe7b46.png" height=48>&nbsp;&nbsp;&nbsp;<img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/APC.svg" height=48>
 
 Attempt to replace the standard APC Smart UPS network monitoring card.
 The card is designed for remote monitoring of the UPS status over a WiFi network.

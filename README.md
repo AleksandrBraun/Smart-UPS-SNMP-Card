@@ -44,34 +44,34 @@ UPS management is also provided.
 
 <div align="center">
 
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Main-Control.png">
+  ![Pic_1](https://user-images.githubusercontent.com/36089626/233590130-a3be8847-fc84-4377-8c7b-e3227e5f6b7f.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Settings.png">
+  ![Pic_2](https://user-images.githubusercontent.com/36089626/233590306-a57e5a5a-430a-4834-857c-6972f3e184c3.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Alert-Error.png">
+  ![Pic_3](https://user-images.githubusercontent.com/36089626/233590356-48457353-9b26-4da2-89de-784364373f12.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Network-MQTT-SSH.png">
+ ![Pic_4](https://user-images.githubusercontent.com/36089626/233590402-cf2a3a65-e76f-4f70-83ab-7dd6c3a0a2b6.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/Fan-Control.png">
+  ![Pic_5](https://user-images.githubusercontent.com/36089626/233590468-2e1244a2-6915-49bd-a9c3-8866eecb1465.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/FWUpdate-page.png">
+  ![Pic_6](https://user-images.githubusercontent.com/36089626/233590510-03b71d0a-2ee0-4f1e-9754-a1bbf42c0e87.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_card.png">
+  ![Pic_7](https://user-images.githubusercontent.com/36089626/233590553-215e7b7d-4289-4787-95f6-d808aea5b59c.png)
 
 ### 
 ---
-  <img src="https://github.com/AleksandrBraun/Smart-UPS-SNMP-Card/blob/main/Images/hass_discovery.png">
+  ![Pic_8](https://user-images.githubusercontent.com/36089626/233590611-66ac061e-9fdf-4428-8d75-6a63250fea7d.png)
 
 </div>

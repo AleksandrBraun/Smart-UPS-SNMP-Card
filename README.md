@@ -18,6 +18,7 @@ UPS management is also provided.
 - Connecting to an MQTT broker
 - MQTT management
 - Home Assistant discovery support
+- Sending an event report to a remote mail server
 - The presence of SSH to send a command to an external server (shutdown, run bat, ran com, etc.)
 - Based on protocol from APC SNMP cards
 
@@ -30,7 +31,6 @@ UPS management is also provided.
 
 ### Future additions
 - Connecting a remote graphic / text display
-- Sending an event report to a remote mail server
 - Output port expander for controlling external devices *
 - Data logging to internal flash memory for further analysis *
 > *will be implemented in the next hardware generation

@@ -1,4 +1,4 @@
-![Network](https://user-images.githubusercontent.com/36089626/233419193-8bd99f58-8664-497e-b649-cebdd96577ec.png)
+![Network](https://user-images.githubusercontent.com/36089626/235139504-e50451c5-2733-4568-b86f-20367b3215a6.png)
 
 1. The name of the UPS that appears in the title of the page.
 2. Local WiFi network name
@@ -36,3 +36,11 @@
 24. SSH command line
 25. Battery level in %% at which a command will be sent via SSH
 26. Button for testing communication and sending a test command via SSH
+27. Activate SMTP mail client
+28. DNS name of the SMTP server
+29. PORT SMTP server
+30. Sender's address
+31. Sender password
+32. Recipient's name
+33. Recipient's address
+34. Event list for sending messages
